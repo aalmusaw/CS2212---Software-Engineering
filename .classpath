@@ -6,11 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Program Files/Microsoft JDBC DRIVER 6.0 for SQL Server/sqljdbc_6.0/enu/jre8/sqljdbc42.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/sqlite/java/connect/sqlite-jdbc-3.30.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aalmusaw/Downloads/CS2212B-Code/sqlite-jdbc-3.32.3.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
